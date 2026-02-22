@@ -1,5 +1,6 @@
 package cadastroee.controller;
 
+import cadastroee.facade.ClienteFacadeLocal;
 import cadastroee.model.Cliente;
 import jakarta.ejb.Stateless;
 import jakarta.persistence.EntityManager;

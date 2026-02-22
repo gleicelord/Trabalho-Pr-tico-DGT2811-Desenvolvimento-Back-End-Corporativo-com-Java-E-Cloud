@@ -1,0 +1,16 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# GlassFish
+gfdeploy/
+
+# Compilados
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs
+*.log

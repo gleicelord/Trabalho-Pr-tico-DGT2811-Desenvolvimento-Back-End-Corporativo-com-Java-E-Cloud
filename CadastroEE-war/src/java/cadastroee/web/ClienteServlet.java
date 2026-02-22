@@ -1,6 +1,6 @@
 package cadastroee.web;
 
-import cadastroee.controller.ClienteFacadeLocal;
+import cadastroee.facade.ClienteFacadeLocal;
 import cadastroee.model.Cliente;
 import jakarta.ejb.EJB;
 import jakarta.servlet.ServletException;
